@@ -1,0 +1,30 @@
+generated: '2026-07-17'
+method: searched
+source: https://a16z.com/team/
+type: Team
+partners:
+  - name: Marc Andreessen
+    role: Cofounder & General Partner
+    twitter: https://twitter.com/pmarca
+  - name: Ben Horowitz
+    role: Cofounder & General Partner
+    twitter: https://twitter.com/bhorowitz
+  - name: Jeff Jordan
+    role: General Partner
+  - name: Chris Dixon
+    role: General Partner (Crypto)
+    twitter: https://twitter.com/cdixon
+  - name: Martin Casado
+    role: General Partner (Infrastructure/AI)
+    twitter: https://twitter.com/martin_casado
+  - name: Andrew Chen
+    role: General Partner (Consumer)
+    twitter: https://twitter.com/andrewchen
+  - name: Katherine Boyle
+    role: General Partner (American Dynamism)
+    twitter: https://twitter.com/KTmBoyle
+  - name: David Ulevitch
+    role: General Partner (American Dynamism)
+    twitter: https://twitter.com/davidu
+  - name: Raghu Raghuram
+    role: General Partner (joined October 2025, former VMware CEO)

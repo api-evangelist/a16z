@@ -1,0 +1,88 @@
+aid: a16z
+name: Andreessen Horowitz
+description: >-
+  Andreessen Horowitz (a16z) is a Silicon Valley venture capital firm founded in July 2009 by Marc
+  Andreessen and Ben Horowitz and headquartered in Menlo Park, California. The firm invests across the
+  full lifecycle from seed to venture to growth-stage technology companies, deploying stage-based checks
+  that range from roughly $1M-$5M into early application bets up to hundreds of millions of dollars into
+  its largest AI positions. a16z organizes around dedicated practice areas: AI, American Dynamism,
+  Bio + Healthcare, Consumer, Crypto, Enterprise, Fintech, Games, Infrastructure, plus specialty vehicles
+  including the Cultural Leadership Fund, Perennial, and the Speedrun accelerator. With over $90B-$100B+ in
+  assets under management as of early 2026 and a public portfolio of more than 1,000 companies, a16z is one
+  of the largest and most influential venture firms in the world, known for its operator-led platform model
+  and notable investments including Airbnb, Coinbase, GitHub, Figma, Stripe, Databricks, Anduril, and OpenAI.
+image: https://a16z.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Growth Equity
+  - Artificial Intelligence
+  - Crypto
+  - Fintech
+  - Enterprise
+  - Infrastructure
+  - Developer Tools
+  - American Dynamism
+  - Silicon Valley
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://a16z.com/
+  - type: Portfolio
+    url: https://a16z.com/portfolio/
+  - type: Portfolio
+    url: https://a16z.com/investment-list/
+  - type: Portfolio
+    url: portfolio/a16z-portfolio.yml
+  - type: Team
+    url: https://a16z.com/team/
+  - type: Team
+    url: team/a16z-team.yml
+  - type: InvestmentThesis
+    url: https://a16z.com/about/
+  - type: Blog
+    url: https://a16z.com/news-content/
+  - type: Podcast
+    url: https://a16z.com/podcasts/
+  - type: Newsletter
+    url: https://a16z.com/newsletters/
+  - type: News
+    url: https://a16z.com/news-content/
+  - type: Jobs
+    url: https://jobs.a16z.com/jobs
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/andreessen-horowitz
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/a16z/
+  - type: Twitter
+    url: https://twitter.com/a16z
+  - type: Features
+    data:
+      - "Stage: Seed, Venture (Series A+), Growth"
+      - "Typical check: ~$1M-$5M early application bets, up to hundreds of millions for largest AI positions"
+      - "Sectors: AI, American Dynamism, Bio + Healthcare, Consumer, Crypto, Enterprise, Fintech, Games, Infrastructure"
+      - "Geography: Primarily United States / global technology"
+      - "AUM: $90B-$100B+ (as of early 2026)"
+      - "Portfolio: 1,000+ companies (a16z investment list)"
+      - "Founded: 2009"
+      - "HQ: Menlo Park, California, USA"
+    sources:
+      - https://a16z.com/about/
+      - https://en.wikipedia.org/wiki/Andreessen_Horowitz
+      - https://a16z.com/investment-list/
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Andreessen Horowitz
+    url: https://a16z.com/
