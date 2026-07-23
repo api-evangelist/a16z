@@ -11,6 +11,17 @@ description: >-
   assets under management as of early 2026 and a public portfolio of more than 1,000 companies, a16z is one
   of the largest and most influential venture firms in the world, known for its operator-led platform model
   and notable investments including Airbnb, Coinbase, GitHub, Figma, Stripe, Databricks, Anduril, and OpenAI.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://a16z.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital
