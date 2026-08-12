@@ -1336,7 +1336,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: true
-  slug: coactive-ai
+  slug: coactive
   matched_by: name-slug
 - name: CodeCombat
   source: https://a16z.com/investment-list/
@@ -2495,7 +2495,7 @@ companies:
   sector: developer-tools
   status: active
   source: https://a16z.com/investment-list/
-  slug: ghost
+  slug: ghost-org
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -2603,7 +2603,7 @@ companies:
   sector: developer-tools
   status: active
   source: https://a16z.com/investment-list/
-  slug: graphite-dev
+  slug: graphite-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -3427,7 +3427,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: true
-  slug: limitless
+  slug: limitless-ai
   matched_by: name-slug
 - name: Linq.gg
   source: https://a16z.com/investment-list/
@@ -3986,7 +3986,7 @@ companies:
   matched_by: name-slug
 - name: Mux
   source: https://a16z.com/investment-list/
-  slug: mux
+  slug: mux-com
   in_network: true
   is_api_provider: true
   matched_by: name-slug
@@ -4496,7 +4496,7 @@ companies:
   matched_by: name-slug
 - name: Patch
   source: https://a16z.com/investment-list/
-  slug: patch
+  slug: patch-io
   in_network: true
   is_api_provider: true
   matched_by: name-slug
@@ -5201,7 +5201,7 @@ companies:
   matched_by: name-slug
 - name: Runloop
   source: https://a16z.com/investment-list/
-  slug: runloop
+  slug: runloop-ai
   in_network: true
   is_api_provider: true
   matched_by: name-slug
@@ -5879,7 +5879,7 @@ companies:
   matched_by: name-slug
 - name: Swell
   source: https://a16z.com/investment-list/
-  slug: swell
+  slug: swell-io
   in_network: true
   is_api_provider: true
   matched_by: name-slug
