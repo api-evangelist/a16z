@@ -1463,7 +1463,7 @@ companies:
   matched_by: domain
 - name: Cross River Bank
   source: https://a16z.com/investment-list/
-  slug: cross-river-bank
+  slug: crossriver
   in_network: true
   is_api_provider: false
   matched_by: name-slug
@@ -3391,7 +3391,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: true
-  slug: lido-finance
+  slug: lido
   matched_by: name-slug
 - name: Lighter
   source: https://a16z.com/investment-list/
@@ -3631,7 +3631,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: false
-  slug: maker
+  slug: makerdao
   matched_by: name-slug
 - name: Mana.bio
   source: https://a16z.com/investment-list/
@@ -3826,7 +3826,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: false
-  slug: merkle-manufactory-inc
+  slug: farcaster
   matched_by: name-slug
 - name: Meta4 Capital
   source: https://a16z.com/investment-list/
@@ -6649,7 +6649,7 @@ companies:
   source: https://a16z.com/investment-list/
   in_network: true
   is_api_provider: false
-  slug: warbler-labs-incorporated
+  slug: warblerlabs
   matched_by: name-slug
 - name: Wave
   source: https://a16z.com/investment-list/
