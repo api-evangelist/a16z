@@ -10,15 +10,8 @@ leads:
   source: https://a16z.com/investment-list/
   stub_created: false
 - name: 7 Cups of Tea
-  url: ''
+  url: https://www.sevencups.com
   suggested_slug: 7-cups-of-tea
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Air Space Intelligence
-  url: ''
-  suggested_slug: air-space-intelligence
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -30,23 +23,9 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Ambience
-  url: ''
-  suggested_slug: ambience
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Ampersand
   url: https://www.ampersand.ai/
   suggested_slug: ampersand-ai
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Apeel
-  url: ''
-  suggested_slug: apeel
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -107,13 +86,6 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Cross River Bank
-  url: ''
-  suggested_slug: cross-river-bank
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Dollar Shave Club
   url: ''
   suggested_slug: dollar-shave-club
@@ -145,13 +117,6 @@ leads:
 - name: Erebor Bank
   url: ''
   suggested_slug: erebor-bank
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Fanatics Holdings
-  url: ''
-  suggested_slug: fanatics-holdings
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -205,23 +170,9 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Lido Finance
-  url: ''
-  suggested_slug: lido-finance
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Limitless
   url: ''
   suggested_slug: limitless
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Lob.com
-  url: ''
-  suggested_slug: lobcom
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -240,37 +191,9 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Merkle Manufactory Inc.
-  url: ''
-  suggested_slug: merkle-manufactory-inc
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Morpho Labs
-  url: ''
-  suggested_slug: morpho-labs
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Mux
-  url: ''
-  suggested_slug: mux
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Nexthop
   url: ''
   suggested_slug: nexthop
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Nx
-  url: ''
-  suggested_slug: nx
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -320,20 +243,6 @@ leads:
 - name: Protocol Labs
   url: https://pl.xyz/
   suggested_slug: pl-xyz
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Radiant Nuclear
-  url: ''
-  suggested_slug: radiant-nuclear
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Relay.app
-  url: ''
-  suggested_slug: relayapp
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -401,13 +310,6 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Turquoise
-  url: ''
-  suggested_slug: turquoise
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Twitter
   url: https://twitter.com
   suggested_slug: twitter
@@ -425,27 +327,6 @@ leads:
 - name: Vantage
   url: ''
   suggested_slug: vantage
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Very Good Security
-  url: ''
-  suggested_slug: very-good-security
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Warbler Labs Incorporated
-  url: ''
-  suggested_slug: warbler-labs-incorporated
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Zus Health
-  url: ''
-  suggested_slug: zus-health
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
