@@ -17,7 +17,7 @@ leads:
   source: https://a16z.com/investment-list/
   stub_created: false
 - name: Amber
-  url: ''
+  url: https://amber.ai
   suggested_slug: amber
   sector: ''
   source_vc: a16z
@@ -37,13 +37,6 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Blend Labs
-  url: ''
-  suggested_slug: blend-labs
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Census
   url: ''
   suggested_slug: census
@@ -59,7 +52,7 @@ leads:
   source: https://a16z.com/investment-list/
   stub_created: false
 - name: Clipboard
-  url: ''
+  url: https://www.clipboard.com/
   suggested_slug: clipboard
   sector: ''
   source_vc: a16z
@@ -82,13 +75,6 @@ leads:
 - name: Common Sense Machines
   url: ''
   suggested_slug: common-sense-machines
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Dollar Shave Club
-  url: ''
-  suggested_slug: dollar-shave-club
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -117,20 +103,6 @@ leads:
 - name: Erebor Bank
   url: ''
   suggested_slug: erebor-bank
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Formation
-  url: ''
-  suggested_slug: formation
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Forte
-  url: ''
-  suggested_slug: forte
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -170,13 +142,6 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Limitless
-  url: ''
-  suggested_slug: limitless
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Maker
   url: ''
   suggested_slug: maker
@@ -191,23 +156,9 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Nexthop
-  url: ''
-  suggested_slug: nexthop
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Orchestra Bio
   url: ''
   suggested_slug: orchestra-bio
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: overshoot.ai
-  url: ''
-  suggested_slug: overshootai
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -229,13 +180,6 @@ leads:
 - name: Percolata
   url: https://percolata.wixsite.com/percolata
   suggested_slug: wixsite-com
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Product Hunt
-  url: ''
-  suggested_slug: product-hunt
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -268,15 +212,8 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Spruce
-  url: ''
-  suggested_slug: spruce
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Swan
-  url: ''
+  url: https://www.swanbitcoin.com/index.html
   suggested_slug: swan
   sector: ''
   source_vc: a16z
@@ -289,45 +226,10 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
-- name: Tackle
-  url: ''
-  suggested_slug: tackle
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Titan
-  url: ''
-  suggested_slug: titan
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: True Link Financial
-  url: ''
-  suggested_slug: true-link-financial
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
 - name: Twitter
   url: https://twitter.com
   suggested_slug: twitter
   sector: consumer
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Ultima Genomics
-  url: ''
-  suggested_slug: ultima-genomics
-  sector: ''
-  source_vc: a16z
-  source: https://a16z.com/investment-list/
-  stub_created: false
-- name: Vantage
-  url: ''
-  suggested_slug: vantage
-  sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
