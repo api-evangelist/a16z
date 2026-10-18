@@ -3,10 +3,10 @@ method: searched
 source: https://a16z.com/investment-list/
 summary:
   portfolio_total: 1100
-  in_network: 1100
-  api_providers: 242
-  missing: 0
-  stubs_created: 0
+  in_network: 1041
+  api_providers: 234
+  missing: 59
+  stubs_created: 16
 companies:
 - name: 0x
   source: https://a16z.com/investment-list/
@@ -23,11 +23,10 @@ companies:
   matched_by: name-slug
 - name: 42Floors
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: 42floors
-  matched_by: name-slug
+  suggested_slug: 42floors
 - name: 451 Degrees
   source: https://a16z.com/investment-list/
   in_network: true
@@ -44,11 +43,10 @@ companies:
   matched_by: name-slug
 - name: 7 Cups of Tea
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: true
-  slug: 7-cups-of-tea
-  matched_by: name-slug
+  suggested_slug: 7-cups-of-tea
 - name: 8Tracks
   source: https://a16z.com/investment-list/
   in_network: true
@@ -163,11 +161,10 @@ companies:
   matched_by: name-slug
 - name: Air Space Intelligence
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
   stub_created: false
-  slug: air-space-intelligence
-  matched_by: name-slug
+  suggested_slug: air-space-intelligence
 - name: Airbnb
   url: https://airbnb.com
   sector: consumer
@@ -314,16 +311,14 @@ companies:
   matched_by: name-slug
 - name: Amber
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: amber
-  matched_by: name-slug
+  suggested_slug: amber
 - name: Ambience
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: ambience
-  matched_by: name-slug
+  suggested_slug: ambience
 - name: Ambient.ai
   source: https://a16z.com/investment-list/
   in_network: true
@@ -422,10 +417,9 @@ companies:
   matched_by: name-slug
 - name: Apeel
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: apeel
-  matched_by: name-slug
+  suggested_slug: apeel
 - name: Apex Space
   source: https://a16z.com/investment-list/
   in_network: true
@@ -707,10 +701,9 @@ companies:
   matched_by: name-slug
 - name: Belong
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: belong
-  matched_by: name-slug
+  suggested_slug: belong
 - name: Benchling
   url: https://benchling.com
   sector: bio-healthcare
@@ -809,10 +802,9 @@ companies:
   matched_by: name-slug
 - name: Blend Labs
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: blend-labs
-  matched_by: name-slug
+  suggested_slug: blend-labs
 - name: Blockspring
   source: https://a16z.com/investment-list/
   in_network: true
@@ -1163,10 +1155,9 @@ companies:
   matched_by: name-slug
 - name: Census
   source: https://a16z.com/investment-list/
-  slug: census
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: census
 - name: Character.AI
   url: https://character.ai
   sector: ai
@@ -1196,10 +1187,9 @@ companies:
   matched_by: name-slug
 - name: Chia
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: chia
-  matched_by: name-slug
+  suggested_slug: chia
 - name: Chute
   source: https://a16z.com/investment-list/
   in_network: true
@@ -1265,7 +1255,7 @@ companies:
   sector: developer-tools
   status: active
   source: https://a16z.com/investment-list/
-  slug: clerk
+  slug: clerk-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1292,10 +1282,9 @@ companies:
   matched_by: name-slug
 - name: Clipboard
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: clipboard
-  matched_by: name-slug
+  suggested_slug: clipboard
 - name: Clockwork Labs
   source: https://a16z.com/investment-list/
   in_network: true
@@ -1334,10 +1323,9 @@ companies:
   matched_by: name-slug
 - name: Coactive AI
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: coactive
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coactive-ai
 - name: CodeCombat
   source: https://a16z.com/investment-list/
   in_network: true
@@ -1391,10 +1379,9 @@ companies:
   matched_by: name-slug
 - name: Common Sense Machines
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: common-sense-machines
-  matched_by: name-slug
+  suggested_slug: common-sense-machines
 - name: Compound
   source: https://a16z.com/investment-list/
   slug: compound
@@ -1463,10 +1450,9 @@ companies:
   matched_by: domain
 - name: Cross River Bank
   source: https://a16z.com/investment-list/
-  slug: crossriver
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: cross-river-bank
 - name: Crossbeam
   source: https://a16z.com/investment-list/
   in_network: true
@@ -1551,8 +1537,8 @@ companies:
   status: active
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
-  slug: dapperlabs
+  is_api_provider: true
+  slug: dapper-labs
   matched_by: domain
 - name: Dare Drop
   source: https://a16z.com/investment-list/
@@ -1634,7 +1620,7 @@ companies:
   sector: enterprise
   status: active
   source: https://a16z.com/investment-list/
-  slug: deel
+  slug: deel-com
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -1763,10 +1749,9 @@ companies:
   matched_by: name-slug
 - name: Dollar Shave Club
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: dollar-shave-club
-  matched_by: name-slug
+  suggested_slug: dollar-shave-club
 - name: Domo
   source: https://a16z.com/investment-list/
   slug: domo
@@ -1839,7 +1824,7 @@ companies:
 - name: Dwolla
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: dwolla
   matched_by: name-slug
 - name: dYdX
@@ -1850,14 +1835,13 @@ companies:
   matched_by: name-slug
 - name: Dynamic
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: dynamic
-  matched_by: name-slug
+  suggested_slug: dynamic
 - name: Dyno
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: dyno
   matched_by: name-slug
 - name: E-3 Tech
@@ -1886,10 +1870,9 @@ companies:
   matched_by: name-slug
 - name: Earn.com
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: earncom
-  matched_by: name-slug
+  suggested_slug: earncom
 - name: EarnBetter
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2015,10 +1998,9 @@ companies:
   matched_by: name-slug
 - name: EPAL INC.
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: epal-inc
-  matched_by: name-slug
+  suggested_slug: epal-inc
 - name: EQRx
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2028,7 +2010,7 @@ companies:
 - name: Equals
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: equals
   matched_by: name-slug
 - name: Erasca
@@ -2039,10 +2021,9 @@ companies:
   matched_by: name-slug
 - name: Erebor Bank
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: erebor-bank
-  matched_by: name-slug
+  suggested_slug: erebor-bank
 - name: Espresso
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2138,10 +2119,9 @@ companies:
   matched_by: name-slug
 - name: Fanatics Holdings
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: fanatics-holdings
-  matched_by: name-slug
+  suggested_slug: fanatics-holdings
 - name: Fanhouse
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2315,10 +2295,9 @@ companies:
   matched_by: name-slug
 - name: Formation
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: formation
-  matched_by: name-slug
+  suggested_slug: formation
 - name: Formation Bio
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2333,10 +2312,9 @@ companies:
   matched_by: name-slug
 - name: Forte
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: forte
-  matched_by: name-slug
+  suggested_slug: forte
 - name: Fortuna Health
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2790,7 +2768,7 @@ companies:
 - name: Hilbert's AI
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: hilberts-ai
   matched_by: name-slug
 - name: Hipcamp
@@ -2804,10 +2782,10 @@ companies:
   sector: ai
   status: active
   source: https://a16z.com/investment-list/
-  slug: hippocratic-ai
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: hippocratic-ai
+  suggested_slug: hippocratic-ai
 - name: Hiptype
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2852,10 +2830,9 @@ companies:
   matched_by: name-slug
 - name: HumanAPI
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: humanapi
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: humanapi
 - name: HVMN
   source: https://a16z.com/investment-list/
   in_network: true
@@ -2954,10 +2931,9 @@ companies:
   matched_by: name-slug
 - name: Inductive Bio
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: inductive-bio
-  matched_by: name-slug
+  suggested_slug: inductive-bio
 - name: Infer
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3251,10 +3227,10 @@ companies:
   sector: american-dynamism
   status: active
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: kobold-metals
-  matched_by: name-slug
+  x-name-collision: kobold-metals
+  suggested_slug: kobold-ai
 - name: Kodex
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3341,10 +3317,9 @@ companies:
   matched_by: name-slug
 - name: Leap Motion
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: leap-motion
-  matched_by: name-slug
+  suggested_slug: leap-motion
 - name: LearnSprout
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3389,10 +3364,9 @@ companies:
   matched_by: name-slug
 - name: Lido Finance
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: lido
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lido-finance
 - name: Lighter
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3425,10 +3399,9 @@ companies:
   matched_by: name-slug
 - name: Limitless
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: limitless-ai
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: limitless
 - name: Linq.gg
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3449,10 +3422,9 @@ companies:
   matched_by: name-slug
 - name: Lob.com
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: lobcom
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lobcom
 - name: Local Motion
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3533,7 +3505,7 @@ companies:
   sector: ai
   status: active
   source: https://a16z.com/investment-list/
-  slug: luma-ai
+  slug: luma-labs
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -3629,10 +3601,9 @@ companies:
   matched_by: name-slug
 - name: Maker
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: makerdao
-  matched_by: name-slug
+  suggested_slug: maker
 - name: Mana.bio
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3696,7 +3667,7 @@ companies:
 - name: Mattermark
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: mattermark
   matched_by: name-slug
 - name: Matternet
@@ -3797,10 +3768,9 @@ companies:
   matched_by: name-slug
 - name: Memora
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: memora
-  matched_by: name-slug
+  suggested_slug: memora
 - name: Mercury
   url: https://mercury.com
   sector: fintech
@@ -3824,10 +3794,9 @@ companies:
   matched_by: name-slug
 - name: Merkle Manufactory Inc.
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: farcaster
-  matched_by: name-slug
+  suggested_slug: merkle-manufactory-inc
 - name: Meta4 Capital
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3939,7 +3908,7 @@ companies:
 - name: Moment
   source: https://a16z.com/investment-list/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: moment
   matched_by: name-slug
 - name: Moov
@@ -3950,10 +3919,9 @@ companies:
   matched_by: name-slug
 - name: Morpho Labs
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: morpho-labs
-  matched_by: name-slug
+  suggested_slug: morpho-labs
 - name: Morta Security
   source: https://a16z.com/investment-list/
   in_network: true
@@ -3986,10 +3954,9 @@ companies:
   matched_by: name-slug
 - name: Mux
   source: https://a16z.com/investment-list/
-  slug: mux-com
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mux
 - name: MVMNT
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4127,10 +4094,9 @@ companies:
   matched_by: name-slug
 - name: Nexthop
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: nexthop
-  matched_by: name-slug
+  suggested_slug: nexthop
 - name: NG.Cash
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4190,10 +4156,9 @@ companies:
   matched_by: name-slug
 - name: Nx
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: nx
-  matched_by: name-slug
+  suggested_slug: nx
 - name: Nym Technologies
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4340,9 +4305,9 @@ companies:
   sector: enterprise
   status: active
   source: https://a16z.com/investment-list/
-  slug: public-sector
+  slug: opengov
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: OpenInvest
   source: https://a16z.com/investment-list/
@@ -4397,10 +4362,9 @@ companies:
   matched_by: name-slug
 - name: Orchestra Bio
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: orchestra-bio
-  matched_by: name-slug
+  suggested_slug: orchestra-bio
 - name: Orchid Labs
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4421,10 +4385,9 @@ companies:
   matched_by: name-slug
 - name: overshoot.ai
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: overshootai
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: overshootai
 - name: Overtime
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4496,10 +4459,9 @@ companies:
   matched_by: name-slug
 - name: Patch
   source: https://a16z.com/investment-list/
-  slug: patch-io
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: patch
 - name: Patch Biosciences
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4778,10 +4740,9 @@ companies:
   matched_by: name-slug
 - name: Product Hunt
   source: https://a16z.com/investment-list/
-  slug: product-hunt
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: product-hunt
 - name: Prologue
   source: https://a16z.com/investment-list/
   in_network: true
@@ -4904,10 +4865,9 @@ companies:
   matched_by: name-slug
 - name: Radiant Nuclear
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: radiant-nuclear
-  matched_by: name-slug
+  suggested_slug: radiant-nuclear
 - name: Raid Base
   source: https://a16z.com/investment-list/
   in_network: true
@@ -5018,10 +4978,9 @@ companies:
   matched_by: name-slug
 - name: Relay.app
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: relayapp
-  matched_by: name-slug
+  suggested_slug: relayapp
 - name: Repl.it
   source: https://a16z.com/investment-list/
   slug: replit
@@ -5105,9 +5064,9 @@ companies:
   sector: crypto
   status: active
   source: https://a16z.com/investment-list/
-  slug: ripple-labs
+  slug: hidden-road
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Rival Labs
   source: https://a16z.com/investment-list/
@@ -5201,10 +5160,9 @@ companies:
   matched_by: name-slug
 - name: Runloop
   source: https://a16z.com/investment-list/
-  slug: runloop-ai
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: runloop
 - name: Runscope
   source: https://a16z.com/investment-list/
   in_network: true
@@ -5216,7 +5174,7 @@ companies:
   sector: ai
   status: active
   source: https://a16z.com/investment-list/
-  slug: runwayml
+  slug: runway
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -5273,7 +5231,7 @@ companies:
   sector: fintech
   status: active
   source: https://a16z.com/investment-list/
-  slug: sardine
+  slug: sardine-ai
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -5441,10 +5399,9 @@ companies:
   matched_by: name-slug
 - name: SignalFx
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: signalfx
-  matched_by: name-slug
+  suggested_slug: signalfx
 - name: Signifyd
   source: https://a16z.com/investment-list/
   slug: signifyd
@@ -5471,10 +5428,9 @@ companies:
   matched_by: name-slug
 - name: Simple Legal
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: simple-legal
-  matched_by: name-slug
+  suggested_slug: simple-legal
 - name: Simpler
   source: https://a16z.com/investment-list/
   in_network: true
@@ -5711,10 +5667,9 @@ companies:
   matched_by: name-slug
 - name: Spruce
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: spruce
-  matched_by: name-slug
+  suggested_slug: spruce
 - name: Stack Machine
   source: https://a16z.com/investment-list/
   in_network: true
@@ -5873,16 +5828,14 @@ companies:
   matched_by: domain
 - name: Swan
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: swan
-  matched_by: name-slug
+  suggested_slug: swan
 - name: Swell
   source: https://a16z.com/investment-list/
-  slug: swell-io
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: swell
 - name: Swiftype
   source: https://a16z.com/investment-list/
   in_network: true
@@ -5927,10 +5880,9 @@ companies:
   matched_by: name-slug
 - name: Tackle
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: tackle
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tackle
 - name: Talaria Technologies
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6200,10 +6152,9 @@ companies:
   matched_by: name-slug
 - name: Titan
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: titan
-  matched_by: name-slug
+  suggested_slug: titan
 - name: Tlon Corporation
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6314,10 +6265,9 @@ companies:
   matched_by: name-slug
 - name: True Link Financial
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: true-link-financial
-  matched_by: name-slug
+  suggested_slug: true-link-financial
 - name: Truffle Security
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6356,10 +6306,9 @@ companies:
   matched_by: name-slug
 - name: Turquoise
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: turquoise
-  matched_by: name-slug
+  suggested_slug: turquoise
 - name: Twice
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6380,10 +6329,9 @@ companies:
   sector: consumer
   status: acquired
   source: https://a16z.com/investment-list/
-  slug: twitter
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: twitter
 - name: TXN Solutions
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6419,10 +6367,9 @@ companies:
   matched_by: domain
 - name: Ultima Genomics
   source: https://a16z.com/investment-list/
-  slug: ultima-genomics
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: ultima-genomics
 - name: Ulysses
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6545,10 +6492,9 @@ companies:
   matched_by: name-slug
 - name: Vantage
   source: https://a16z.com/investment-list/
-  slug: vantage
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vantage
 - name: Vastrm
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6575,10 +6521,9 @@ companies:
   matched_by: name-slug
 - name: Very Good Security
   source: https://a16z.com/investment-list/
-  in_network: true
-  is_api_provider: true
-  slug: very-good-security
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: very-good-security
 - name: Vesta
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6647,10 +6592,9 @@ companies:
   matched_by: name-slug
 - name: Warbler Labs Incorporated
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: warblerlabs
-  matched_by: name-slug
+  suggested_slug: warbler-labs-incorporated
 - name: Wave
   source: https://a16z.com/investment-list/
   in_network: true
@@ -6989,16 +6933,15 @@ companies:
   matched_by: name-slug
 - name: Zus Health
   source: https://a16z.com/investment-list/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: zus-health
-  matched_by: name-slug
+  suggested_slug: zus-health
 - name: Zynga
   url: https://zynga.com
   sector: games
   status: ipo
   source: https://a16z.com/investment-list/
-  slug: take-two-interactive-software
+  slug: zynga
   in_network: true
   is_api_provider: false
   matched_by: domain
