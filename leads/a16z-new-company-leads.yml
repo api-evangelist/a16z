@@ -37,6 +37,13 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
+- name: Ampersand
+  url: https://www.ampersand.ai/
+  suggested_slug: ampersand-ai
+  sector: ''
+  source_vc: a16z
+  source: https://a16z.com/investment-list/
+  stub_created: false
 - name: Apeel
   url: ''
   suggested_slug: apeel
@@ -75,6 +82,13 @@ leads:
 - name: Clipboard
   url: ''
   suggested_slug: clipboard
+  sector: ''
+  source_vc: a16z
+  source: https://a16z.com/investment-list/
+  stub_created: false
+- name: Co:Create
+  url: https://www.cocreate.ink/
+  suggested_slug: cocreate-ink
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
@@ -275,6 +289,13 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
+- name: Parsable
+  url: https://caisoft.com/product/parsable-connected-worker/
+  suggested_slug: caisoft-com
+  sector: ''
+  source_vc: a16z
+  source: https://a16z.com/investment-list/
+  stub_created: false
 - name: Patch
   url: ''
   suggested_slug: patch
@@ -282,9 +303,23 @@ leads:
   source_vc: a16z
   source: https://a16z.com/investment-list/
   stub_created: false
+- name: Percolata
+  url: https://percolata.wixsite.com/percolata
+  suggested_slug: wixsite-com
+  sector: ''
+  source_vc: a16z
+  source: https://a16z.com/investment-list/
+  stub_created: false
 - name: Product Hunt
   url: ''
   suggested_slug: product-hunt
+  sector: ''
+  source_vc: a16z
+  source: https://a16z.com/investment-list/
+  stub_created: false
+- name: Protocol Labs
+  url: https://pl.xyz/
+  suggested_slug: pl-xyz
   sector: ''
   source_vc: a16z
   source: https://a16z.com/investment-list/
